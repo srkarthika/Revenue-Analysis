@@ -4,6 +4,11 @@ The Revenue Analysis contains a report for a company that manufactures marketing
 
 **Power BI Report**
 
+
+<img width="702" alt="datamodel" src="https://github.com/srkarthika/Revenue-Analysis/assets/163586802/e7820edb-ebe9-4454-be59-e3fe6da64147">
+
+
+
 <img width="713" alt="img1 revenue" src="https://github.com/srkarthika/Revenue-Analysis/assets/163586802/d753a56f-0981-4168-a15d-1ce78cfb049f">
 
 
